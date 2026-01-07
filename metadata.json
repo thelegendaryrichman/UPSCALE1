@@ -1,0 +1,7 @@
+{
+  "name": "UPSCALE 4K JIN",
+  "description": "An advanced image generation and editing suite powered by Gemini 2.5 and Gemini 3, featuring 4K upscaling and natural language image manipulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
